@@ -21,5 +21,4 @@ public class PouringWater {
 		while (numberOfTests-- > 0)
 			performOneTest();
 	}
-
 }
